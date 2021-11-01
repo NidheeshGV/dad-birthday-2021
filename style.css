@@ -1,0 +1,30 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#car
+{
+border-width:10px;
+background-color: white;
+border-style:ridge;
+border-color:green;
+
+}
+
+#sound{
+background-color: blue;
+font-size: 20px;
+font-weight: bold;
+color: red;
+height: 60px;
+width: 130px;
+}
+
+#h3{
+text-align: center;
+color: green;
+border-width: 10px;
+border-color: yellow;
+}
